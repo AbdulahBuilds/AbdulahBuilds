@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on React apps and interactive dashboards<br>👯 I’m looking to collaborate on web development and open-source projects<br>🤝 I’m looking for help with TypeScript best practices and full-stack integration<br>🌱 I’m currently learning advanced React, Firebase, and modern UI design<br>💬 Ask me about JavaScript, front-end frameworks, or tech tutorials<br>⚡ Fun fact I once built a project just to learn how to make it look good in Tailwind!
+🚀 MERN Stack Developer | Turning ideas into interactive web experiences
+
+💻 Building sleek React apps, dynamic dashboards, and full-stack web solutions
+🌱 Currently diving deeper into Advanced React, Firebase, TypeScript, and modern UI/UX
+🤝 Open to collaborating on innovative web projects and open-source contributions
+🎯 Passionate about clean code, responsive design, and smooth user experiences
+💬 Ask me about JavaScript, React, Tailwind CSS, or front-end magic ✨
+⚡ Fun fact: I once redesigned a whole project three times… just to make the UI “feel right” 😄
+
 
 
 ## 🌐 Socials:
@@ -16,8 +24,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammadabdul071&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadabdul071&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Muhammadabdul071&limit=5&theme=default&combine_all_yearly_contributions=true)
